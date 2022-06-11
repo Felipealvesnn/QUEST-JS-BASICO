@@ -6,14 +6,17 @@ function somar(numero1, numero2) {
 const resultadoSoma = somar(2, 3);
 console.log(resultadoSoma);
 
+
+
 function dividisao(numero1, numero2) {
     let divisao = numero1 / numero2;
     return `A divisao dos dois números é: ${divisao}`;
 }
 
-
 const resultadodividir = dividisao(10, 5);
 console.log(resultadodividir);
+
+
 
 function subtracao(numero1, numero2) {
     let menos = numero1 - numero2;
@@ -22,6 +25,8 @@ function subtracao(numero1, numero2) {
 
 const resultadosubtracao = subtracao(10, 9);
 console.log(resultadosubtracao);
+
+
 
 function multiplicacao(numero1, numero2) {
     let multiplicar = numero1 * numero2;
