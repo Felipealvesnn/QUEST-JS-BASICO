@@ -11,6 +11,7 @@ function dividisao(numero1, numero2) {
     return `A divisao dos dois números é: ${divisao}`;
 }
 
+
 const resultadodividir = dividisao(10, 5);
 console.log(resultadodividir);
 
